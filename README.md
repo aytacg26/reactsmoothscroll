@@ -77,3 +77,13 @@ image prop is an object which will contain img src, alt and title for img elemen
       </Scrollable>
 
 ```
+
+These are just samples, instead of this, you may have a <Home /> component, or instead of the About sample above
+you may have an <About /> page component
+
+```
+        <div className='full-page home'>
+          This will be Home Page Component which may contain lots of other
+          components
+        </div>
+```
