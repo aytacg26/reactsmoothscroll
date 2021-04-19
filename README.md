@@ -1,12 +1,13 @@
 # React Smooth Scroll Component
 
 - Component : Scrollable
-- props : linkTitles={['Home', 'About', 'Products', 'Contact Us', 'Activities']}
-  navHeight={70}
-  navClass='nav-bar'
-  overWriteNavClass={false}
-  linkClass='links'
-  image={{
+- props :
+  - linkTitles={['Home', 'About', 'Products', 'Contact Us', 'Activities']}
+  - navHeight={70}
+  - navClass='nav-bar'
+  - overWriteNavClass={false}
+  - linkClass='links'
+  - image={{
             img: sLogo,
             alt: 'Smooth Scroll',
             title: 'Smooth Scroll',
